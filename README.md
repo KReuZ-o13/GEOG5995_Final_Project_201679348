@@ -1,2 +1,8 @@
 # GEOG5995_Final_Project_201679348
-This project seeks to look into the state of the education in Kenya by the number of students enrolled in primary and secondary school as per the 2019 Census and the available information on the schools available in each county.
+Education holds an important role in Kenyan governance, evident through the dedicated Ministry of Education and supporting legislative acts. The government has rolled out sevral initiatives to encourage enrollment of students in both primary and secondary schools, such as introducing free primary school education in 2003 and free day school secondary school education in 2008. 
+
+These initiatives have served the country well, with the enrollment of students in primary school increasing from 9.95 million in 2014 to 10.17 million in 2020, and students in secondary school from 2.3 million in 2014 to 3.5 million in 2020. Although in theory education in public schools is free, the reality is that the government pays a subsidy to the school, and a lot of the schools charge school fees especially for secondary schools. The infrastructure and staff available for public schools is woefully inadequate, and  it has been observed that there is a great disparity in enrollment when observed by region and gender.
+
+This notebook seeks to look into the state of the education in Kenya by the number of students enrolled in primary and secondary school as per the 2019 Census and the available information on the schools available in each county.
+
+This repository contains the notebook containng the analysis that I have carried out, as well as the files required for analysis. There are two types of shapefiles: one countaining the county dimensions, and the other containing the schools in each county. There are also three csv files: data on student enrollment in primary and secondary school, as well as the population distribution as per the 2019 census.
